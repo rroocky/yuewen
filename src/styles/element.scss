@@ -1,0 +1,17 @@
+@mixin transparentBtn(
+  $padding: 7px 15px,
+  $background: transparent,
+  $border: 1px solid #fff,
+  $color: #fff,
+  $font-size: 14px,
+  $font-weight: normal
+) {
+  padding: $padding;
+  background: $background;
+  border: $border;
+  color: $color;
+  font-size: $font-size;
+  font-weight: $font-weight;
+  text-align: center;
+  cursor: pointer;
+}

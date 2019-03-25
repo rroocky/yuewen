@@ -1,0 +1,7 @@
+[0306/132318.414:ERROR:process_info.cc(359)] UncheckedAllocate
+[0306/142332.551:ERROR:process_info.cc(359)] UncheckedAllocate
+[0306/142519.964:ERROR:process_info.cc(359)] UncheckedAllocate
+[0318/175449.850:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0318/175449.851:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0318/175449.851:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0318/175449.851:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
